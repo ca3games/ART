@@ -1,0 +1,5 @@
+ToonBoomAnimationInc PaletteList 1
+palette-library/Front_Idle LINK "C:/Users/cristian/Google Drive/Kaliina/Animations/Front_Idle/palette-library/Front_Idle.plt"
+palette-library/Front_Idle_pencil_texture LINK "C:/Users/cristian/Google Drive/Kaliina/Animations/Front_Idle/palette-library/Front_Idle_pencil_texture.plt"
+palette-library/Pacifica_Front_Idle LINK "C:/Users/cristian/Google Drive/Kaliina/Animations/Front_Idle/palette-library/Pacifica_Front_Idle.plt"
+palette-library/Pacifica_Front_Idle_pencil_texture LINK "C:/Users/cristian/Google Drive/Kaliina/Animations/Front_Idle/palette-library/Pacifica_Front_Idle_pencil_texture.plt"
